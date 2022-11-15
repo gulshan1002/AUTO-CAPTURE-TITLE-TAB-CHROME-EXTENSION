@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Tab Title",
+    "version": "1.0",
+    "description": "Shows the title of the current tab in the browser action's badge.",
+    "icons": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+    },
+    "action": {
+        "default_title": "Tab Title",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}

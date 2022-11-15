@@ -1,0 +1,49 @@
+h2
+{
+    color:rgb(10, 247, 58);
+}
+h3
+{
+    color:rgb(1, 219, 243);
+}
+#title
+{
+    color:blue;
+}
+#title:hover
+{
+    color:red;
+}
+#title:active
+{
+    color:green;
+}
+#title:visited
+{
+    color:purple;
+}
+#button
+{
+    background-color:orange;
+    color:blue;
+    border:1px solid black;
+    border-radius:5px;
+    padding:5px;
+    font-size:20px;
+}
+#button:hover
+{
+    background-color:blue;
+    color:orange;
+}
+#button:active
+{
+    background-color:green;
+    color:purple;
+}
+#button:visited
+{
+    background-color:purple;
+    color:green;
+}
+
